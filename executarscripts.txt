@@ -1,0 +1,2 @@
+chmod +x provisionar-servidor.sh   -  DAR PERMISSÃO AO SCRIPT
+sudo ./provisionar-servidor.sh    -  Execute o script como root
