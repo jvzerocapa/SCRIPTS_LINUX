@@ -1,3 +1,9 @@
+#COMO EXECUTAR
+#chmod +x instalar_zabbix_agent.sh
+#sudo ./instalar_zabbix_agent.sh
+
+
+
 #!/bin/bash
 
 # Verifica se está sendo executado como root
